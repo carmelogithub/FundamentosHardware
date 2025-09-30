@@ -1,0 +1,20 @@
+Proyecto 1T
+
+Equipos de 3 personas
+funcionalidades - Escuela en Honduras : equipamiento a nivel 
+hw para dos aulas + 5 despachos + 1 secretaría + 1 lab
+
+Elabores un listado de componentes de hardware necearios
+con sus características.
+
+Calcular Presupuesto
+Análisis crítico de por qué eliges cada componente
+
+tres entregas parciales.
+15-10-2025
+7 -11-2025
+05-12-2025
+
+semana del 15-12 haremos exposición de proyecto
+10 minutos exposición
+Entrega. PDF con la memoria.
