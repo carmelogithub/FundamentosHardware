@@ -1,0 +1,16 @@
+Sesión 30-09-2025
+https://github.com/carmelogithub/FundamentosHardware
+
+Actividad 1 -
+Fundamentos de hardware
+Disco duro:HDD vs SSD, capacidad, latencia .....
+RAM: modelo, slots libres, latencia....
+Procesador: multithreading...
+
+Analizar estos componentes en tu equipo personal vs smartphone
+
+Identifica la marca, modelo y sus características.
+
+Entrega. 
+PDF con capturas y explicaciones técnicas de cada punto.
+cescriba@nebrija.es
