@@ -1,0 +1,21 @@
+objetivo.
+Conocer y trabajar con 
+buses
+chipset
+slots
+puertos
+
+En especial quiero diferencia intel vs amd en procesadores.
+
+Tarea.
+Siguiendo el archivo Unidad 1 y 2 de los contenidos, en un documento de texto, añadimos imágenes que completan los contenidos del documentos.
+es decir, buses de datos y de dirección. Añade una imagen para cada caso.
+
+Por ejemplo, puertos USB. Añade imagen para puerto usb 2 - 3 -4 y qué diferencia hay física.
+
+Elabora un listado de procesadores intel y amd. Añade imagen de cada procesador y explica qué es el disipador.
+
+Entrega.
+PDF con el documento que contiene conceptos y las imágenes.
+
+A 12.40 abrimos 2-3 entregas y comentamos si hay algún error y feedback.
