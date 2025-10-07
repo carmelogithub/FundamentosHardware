@@ -1,0 +1,56 @@
+Actividad 3 
+Unidad 3 - Procesadores y memoria
+Nombre de archivo a entregar
+CarmeloEscribano_ASIR_Actividad3.pdf
+
+Escenario1
+el procesador interpreta las instrucciones de la memoria.
+esto se hace en ciclos.
+lo normal es que la velocidad de procesador tenga que ver con los ciclos.
+la velocidad de procesador se mide en Ghz
+
+Explica qué tiene que ver ciclos con los Ghz en relación con procesador.
+
+Escenario2
+Los procesadores tiene n varios núcleos.
+Qué es proceso vs hilo vs servicio.
+Programas en Java... concurrente vs paralela. Gestionar diferentes hilos.
+
+Explicar a un alumno de DAM (dev) que es los hilos y los núcleos de un procesador.
+Y cómo afecta a un programa que se ejecuta.
+
+Escenario 3
+Intel vs AMD
+En tu smartphone qué procesador utilizas?
+Soportan hilos? y núcleos?
+App se ejecuta en el tfno.
+
+Escenario 4
+En un equipo... es mejor montar sistema operativo en una partición en SSD
+Los datos, los programas que instalamos en otra partición en HDD
+valora es opinión
+
+Escenario 5
+Estudio tu equipo y valora realizar una ampliación de memoria.
+Necesito.
+Conocer si tienes slots libre
+Fabricante y memoria EXACTA que tienes instalada. ****(placa base quizá pueda reconocer otras memorias)
+Precio y tienda en donde adquirir la nueva memoria.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
